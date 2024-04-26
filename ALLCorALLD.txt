@@ -1,0 +1,13 @@
+Strategy: ALLCorALLD
+Description: This strategy is at the parameter extreme of the ZD strategies (phi = 0).
+    It simply repeats its last move, and so mimics ALLC or ALLD after round one.
+    If the tournament is noisy, there will be long runs of C and D.
+
+    For now starting choice is random of 0.6, but that was an arbitrary choice
+    at implementation time.
+
+    Names:
+
+    - ALLC or ALLD: Original name by Marc Harper
+    - Repeat: [Akin2015]_
+    

@@ -1,0 +1,23 @@
+Simulation Results:
+
+ID: 1
+Player 1: Burn Both Ends
+Player 2: ALLCorALLD
+Winner: ALLCorALLD
+Seed: 10000
+Timestamp: 2024-04-25 22:28:33
+
+ID: 2
+Player 1: Anti Tit For Tat
+Player 2: ALLCorALLD
+Winner: Anti Tit For Tat
+Seed: 10000
+Timestamp: 2024-04-25 22:28:41
+
+ID: 3
+Player 1: Adaptive Pavlov 2006
+Player 2: AdaptorBrief
+Winner: AdaptorBrief
+Seed: 1
+Timestamp: 2024-04-25 22:44:15
+
