@@ -22,10 +22,16 @@ def insert_result(timestamp, strategy_name, rounds_played, placement):
 # Setup database
 setup_database()
 
-# Select a mix of strategies
+# Define selected strategies
 selected_strategies = [
-     axl.TitForTat(),
-    axl.Grudger(), axl.Alternator()
+    axl.Alternator(),
+    axl.AntiTitForTat(),
+    axl.Bully(),
+    axl.Cooperator(),
+        axl.SuspiciousTitForTat(),
+    axl.TitForTat(),
+    axl.WinShiftLoseStay(),
+    axl.WinStayLoseShift()
 ]
 
 # Define the number of rounds for the tournament
